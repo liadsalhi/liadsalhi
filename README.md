@@ -33,7 +33,7 @@ I care about clean data models, secure backends, and testing before release.
 - Custom REST API connecting the Android client to the backend
 - Multi-role authentication (tenant / owner), invite-code account linking, and a maintenance ticketing system with image uploads
 
-### ⚽ World Cup 2026 Fantasy & Prediction Platform
+### ⚽[Apartamento: Rental Management App](https://github.com/liadsalhi/apartamento)
 **Next.js 15 · TypeScript · PostgreSQL · REST APIs**
 - Designed the database schema and SQL queries behind live scoring
 - Row Level Security and server-side auth, so every user sees and edits only their own data
