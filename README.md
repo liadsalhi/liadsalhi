@@ -1,32 +1,49 @@
 # Hi there, I'm Liad Salhi 👋
 
-I'm a third-year Computer Science student at Afeka College, passionate about software development and building real-world projects that solve real problems.
+Software developer and B.Sc. Computer Science graduate (Afeka College, 2026).
+I build full-stack and mobile apps end to end, from database design and REST APIs to the UI, often with AI features built in.
 
 ## About Me
 
-I enjoy working on challenging projects that push my skills forward — from backend systems and data structures to full-stack web apps with AI integrations. I'm constantly exploring new technologies and looking for opportunities to grow as a developer.
+I like turning real problems into working products: an Android app for managing rentals, a live fantasy platform for the World Cup, and AI assistants that do something useful for the user.
+I care about clean data models, secure backends, and testing before release, and I use AI tools like Claude and Gemini every day to build and debug faster.
 
 ## 🛠️ Tech Stack
 
 **Languages:**
-`C` `C#` `Java` `Python` `Assembly` `Kotlin` `JavaScript` `Google Apps Script`
+`Kotlin` `TypeScript` `JavaScript` `Python` `Java` `C#` `C` `SQL`
 
-**Developer Tools:**
-`IntelliJ IDEA` `Android Studio` `Visual Studio` `PyCharm` `AWS` `Grafana` `Jira` `Thruk`
+**Frameworks & Libraries:**
+`Jetpack Compose` `Next.js` `React` `Node.js` `Express`
 
-**Environments & Platforms:**
-`Linux` `Windows` `GitHub` `Google Sheets API` `REST APIs`
+**Databases & Backend:**
+`PostgreSQL` `MySQL` `Supabase` `Firebase` `REST APIs`
+
+**AI:**
+`Gemini API` `LLM integration` `Prompt design` `Google AI Studio`
+
+**Tools & Platforms:**
+`Git` `GitHub Actions` `AWS` `Android Studio` `IntelliJ IDEA` `Visual Studio` `Linux` `Windows`
 
 ## 🚀 Projects
 
-### [Israeli Premier League Predictor](https://github.com/liadsalhi/israeli-premier-league-predictor)
-AI-powered football prediction web app integrating multiple REST APIs for real-time data, AI-powered match predictions using Gemini API, and full automation via Google Apps Script with Google Sheets as a database.
+### 🏠 Apartamento: Rental Management App
+**Android (Kotlin, Jetpack Compose) · Node.js + Express · PostgreSQL · Firebase**
+- AI assistant that helps tenants find service professionals, built on the Gemini API and SerpApi
+- Custom REST API connecting the Android client to the backend
+- Multi-role authentication (tenant / owner), invite-code account linking, and a maintenance ticketing system with image uploads
 
-### E-Commerce System (Java)
-Modular e-commerce platform with product listings, user accounts, and transactions. Built using OOP principles and file handling.
+### ⚽ World Cup 2026 Fantasy & Prediction Platform
+**Next.js 15 · TypeScript · PostgreSQL · REST APIs**
+- Designed the database schema and SQL queries behind live scoring
+- Row Level Security and server-side auth, so every user sees and edits only their own data
+- Integrated external sports-data APIs, with mapping and validation before storage
+- Integration tests plus an automated build and deploy pipeline
 
-### Supermarket Management System (C)
-Command-line application for user and product management with categorized items and purchase limits. Used text and binary file storage with custom data structures.
+### 🇮🇱 [Israeli Premier League Predictor](https://github.com/liadsalhi/israeli-premier-league-predictor)
+**Google Apps Script · Gemini API · Google Sheets API**
+- Football prediction web app that pulls live data from multiple REST APIs
+- Match predictions generated with the Gemini API
 
 ## 📫 Connect with me
 
