@@ -27,13 +27,13 @@ I care about clean data models, secure backends, and testing before release.
 
 ## 🚀 Projects
 
-### 🏠 Apartamento: Rental Management App
+### 🏠 [Apartamento: Rental Management App](https://github.com/liadsalhi/apartamento)
 **Android (Kotlin, Jetpack Compose) · Node.js + Express · PostgreSQL · Firebase**
 - AI assistant that helps tenants find service professionals, built on the Gemini API and SerpApi
 - Custom REST API connecting the Android client to the backend
 - Multi-role authentication (tenant / owner), invite-code account linking, and a maintenance ticketing system with image uploads
 
-### ⚽[Apartamento: Rental Management App](https://github.com/liadsalhi/apartamento)
+### ⚽ [World Cup 2026 Fantasy & Prediction Platform](https://github.com/liadsalhi/mundial-2026)
 **Next.js 15 · TypeScript · PostgreSQL · REST APIs**
 - Designed the database schema and SQL queries behind live scoring
 - Row Level Security and server-side auth, so every user sees and edits only their own data
