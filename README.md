@@ -6,7 +6,7 @@ I build full-stack and mobile apps end to end, from database design and REST API
 ## About Me
 
 I like turning real problems into working products: an Android app for managing rentals, a live fantasy platform for the World Cup, and AI assistants that do something useful for the user.
-I care about clean data models, secure backends, and testing before release, and I use AI tools like Claude and Gemini every day to build and debug faster.
+I care about clean data models, secure backends, and testing before release.
 
 ## 🛠️ Tech Stack
 
